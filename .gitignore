@@ -39,3 +39,8 @@ Thumbs.db
 # dotCover
 *.dotCover
 /.localHistory
+
+Lightning_Case_Module.credprops
+Lightning_Case_Module.sfproj
+Lightning_Case_Module.sfsln
+Lightning_Case_Module.userprefs
